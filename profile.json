@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "login": "Gplay666",
+  "seed": "#1F2956",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hiii, I'm",
+    "name": "Gplay666",
+    "subtitle": "Your ad could be here (no actually)",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "code",
+        "label": "Python · C++ "
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Software developer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly backend"
+      },
+      {
+        "icon": "school",
+        "label": "2nd-year university student"
+      },
+      {
+        "icon": "brand:archlinux",
+        "label": "I use Arch btw"
+      },
+      {
+        "icon": "sports_esports",
+        "label": "Gamer"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:uml",
+            "label": "UML"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "TaskManager",
+      "GSimpleDiceRandomiser",
+      "miku-desktop-mascot-trend-hyprland",
+      "ResumeSite"
+    ],
+    "overrides": {},
+    "empty": "<None>",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/Gplay666"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/vdU5E5VYQh"
+      },
+      {
+        "icon": "language",
+        "url": "https://gplaydev.ru/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://gplaydev.ru/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/Gplay666?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
