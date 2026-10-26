@@ -1,17 +1,17 @@
 {
- "key": "1ea2b093",
+ "key": "8776e4a0",
  "stars": 1,
- "contributions": 122,
+ "contributions": 129,
  "repos": 10,
  "followers": 1,
  "languages": [
   [
-   "HTML",
-   156661
+   "Python",
+   424508
   ],
   [
-   "Python",
-   154858
+   "HTML",
+   156661
   ],
   [
    "Kotlin",
@@ -107,11 +107,15 @@
   ],
   [
    {
-    "c": 0,
+    "c": 4,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -120,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 3
  },
  "pins": [],
@@ -180,9 +184,9 @@
    "topics": []
   },
   {
-   "name": "TUIMusicRecomendator",
-   "url": "https://github.com/Gplay666/TUIMusicRecomendator",
-   "text": "Simple app for local music recomendations. WIP early alpha. Still no relation-creating algorithm.",
+   "name": "Gbonds",
+   "url": "https://github.com/Gplay666/Gbonds",
+   "text": "Linux TUI music player with local recomendation system",
    "fork": false,
    "stars": 0,
    "language": "Python",
