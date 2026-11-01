@@ -1,7 +1,7 @@
 {
- "key": "2bca5031",
+ "key": "79425f9b",
  "stars": 1,
- "contributions": 139,
+ "contributions": 141,
  "repos": 11,
  "followers": 1,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Kotlin",
-   221579
+   221424
   ],
   [
    "HTML",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -141,10 +104,23 @@
     "today": false
    },
    {
-    "c": 8,
+    "c": 10,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
