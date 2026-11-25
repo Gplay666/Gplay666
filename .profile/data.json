@@ -1,13 +1,13 @@
 {
- "key": "352eff1d",
+ "key": "d2b887d2",
  "stars": 1,
- "contributions": 158,
+ "contributions": 162,
  "repos": 13,
  "followers": 1,
  "languages": [
   [
    "Python",
-   529713
+   610825
   ],
   [
    "Rust",
@@ -15,11 +15,15 @@
   ],
   [
    "Kotlin",
-   293831
+   306580
   ],
   [
    "HTML",
    252364
+  ],
+  [
+   "Jupyter Notebook",
+   68096
   ],
   [
    "Java",
@@ -28,10 +32,6 @@
   [
    "JavaScript",
    6851
-  ],
-  [
-   "PLpgSQL",
-   3869
   ]
  ],
  "days": [
@@ -121,18 +121,22 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 4
  },
  "pins": [],
